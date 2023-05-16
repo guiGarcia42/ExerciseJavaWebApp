@@ -1,5 +1,3 @@
-# Checkpoint2-MWE
+# Launch management to Mars
 
-RM87145 - André Campos Codo
-
-RM87192 - Guilherme Garcia
+Practicing creating a CRUD using Java and Spring MVC
